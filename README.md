@@ -4,23 +4,20 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active directory](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Certifications</b>
-    - [ACCA]()
-    - [CPAK]()
+- <b>Membership</b>
+    - [ICPAK]  (https://www.icpak.com/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Python Full Course for Beginners] (Step by step Guide)](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=491s)
+- [Python for Data Analytics - Full Course for Beginners] (Step by step Guide)](https://www.youtube.com/watch?v=wUSDVGivd-8)
+- [Excel for Data Analytics - Full Course for Beginners] (Step by step Guide)](https://www.youtube.com/watch?v=pCJ15nGFgVg)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ShadrackKwambaiKipruto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[x]: https://x.com/shadrakipruto
 
 [linkedin]: www.linkedin.com/in/shadrack-kwambai-kipruto
 
