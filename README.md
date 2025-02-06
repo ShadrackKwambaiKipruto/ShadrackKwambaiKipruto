@@ -1,7 +1,7 @@
 <h1>Hi, I'm Shadrack ! </h1>
 
 <h2>About Me:</h2>
-Financial analyst skilled in Advanced Excel, SQL, Python, and visualization, transforming data into actionable insights for decision-making.
+An experienced Analyst skilled in Advanced Excel, SQL, Python, and visualization, transforming data into actionable insights for decision-making.
 
 
 <h2>Certifications</h2>
