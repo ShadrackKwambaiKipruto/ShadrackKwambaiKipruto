@@ -4,13 +4,19 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active directory](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Membership</b>
-    - [ICPAK]  (https://www.icpak.com/)
+
+- <b>Certifications</b>
+
+  [CPAK]  (https://www.icpak.com/certification/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Python Full Course for Beginners] (Step by step Guide)](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=491s)
+  
 - [Python for Data Analytics - Full Course for Beginners] (Step by step Guide)](https://www.youtube.com/watch?v=wUSDVGivd-8)
+  
+- [Microsoft Excel Tutorial for Beginners - Full Course] (Step by step Guide)](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=5164s)
+  
 - [Excel for Data Analytics - Full Course for Beginners] (Step by step Guide)](https://www.youtube.com/watch?v=pCJ15nGFgVg)
 
 
