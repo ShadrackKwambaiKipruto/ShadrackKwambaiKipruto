@@ -4,9 +4,21 @@
 Financial analyst skilled in Advanced Excel, SQL, Python, and visualization, transforming data into actionable insights for decision-making.
 
 
-- <b>Certifications :</b>
-  CPAK
-  
+<h2>Certifications</h2>
+
+- <b>CPA</b>
+- <b>ACCA</b>
+
+<h2>Programming Languages</h2>
+
+- <b>Python</b>
+- <b>R</b>
+
+<h2>Languages</h2>
+
+- <b>Swahili (Native)</b>
+- <b>English (C1)</b>
+- <b>Italian (B2)</b>
 
   
 <h2>📺 Popular YouTube Videos</h2>
